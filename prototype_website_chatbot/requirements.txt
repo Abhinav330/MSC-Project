@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+streamlit
+langsmith
+grandalf
+langchain-groq
+langchain-text-splitters
+lark
+langchain-huggingface
+langchain_ollama
+langchain_chroma
