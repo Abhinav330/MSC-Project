@@ -84,11 +84,14 @@ The repository contains all the necessary resources for developing, fine-tuning,
 
 ### Prototype Screenshots
 
-![Prototype Chat Interface](images/prototype_chat.png)
+
+![Prototype Chat Interface](https://github.com/Abhinav330/MSC-Project/blob/main/img/Prototype.png)
+
 *Figure 1: The chatbot responding to user queries.*
 
-![EDA Visualization](images/eda_visual.png)
-*Figure 2: Exploratory Data Analysis showing fee distribution.*
+![EDA Visualization](https://github.com/Abhinav330/MSC-Project/blob/main/img/International%20fee%20distribution.png)
+
+*Figure 2: Exploratory Data Analysis showing International fee distribution.*
 
 ## Results and Findings
 
