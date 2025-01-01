@@ -11,7 +11,7 @@ All the large Language models trained for this project is hosted on Huggingface 
 
 ## Mistral Finetuned Model:
 
-[Mistral Model](https://github.com/Abhinav330/MSC-Project/blob/main/Large%20Language%20Models/Mistral_model.png)
+![Mistral Model](https://github.com/Abhinav330/MSC-Project/blob/main/Large%20Language%20Models/Mistral_model.png)
 
 [Link to Model](https://huggingface.co/roger33303/mistral-7b-Instruct-Finetune-website-QnA)
 
