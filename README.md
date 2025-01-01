@@ -24,6 +24,7 @@ The repository contains all the necessary resources for developing, fine-tuning,
 
 - **`Data_Cleaning_and_Data_Analysis/`**: Scripts and notebooks for data preprocessing and exploratory data analysis.
 - **`Google-Collab/`**: Experiments and notebooks conducted on Google Colab.
+- ** `Large Language Models`**:  All LLMs are hosted on Huggingface. [More Information](https://github.com/Abhinav330/MSC-Project/blob/main/Large%20Language%20Models/README.md)
 - **`Web_Scraping/scrape_uni/`**: Web scraping scripts for extracting university course data.
 - **`prototype_website_chatbot/`**: The prototype implementation of the chatbot.
 - **`app.py`**: The main Streamlit script for running the chatbot prototype.
