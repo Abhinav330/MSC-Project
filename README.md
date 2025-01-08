@@ -22,12 +22,11 @@ University websites are essential platforms for providing critical information. 
 
 The repository contains all the necessary resources for developing, fine-tuning, and deploying the chatbot. It includes the following directories and files:
 
-- **`Data_Cleaning_and_Data_Analysis/`**: Scripts and notebooks for data preprocessing and exploratory data analysis.
-- **`Google-Collab/`**: Experiments and notebooks conducted on Google Colab.
-- ** `Large Language Models`**:  All LLMs are hosted on Huggingface. [More Information](https://github.com/Abhinav330/MSC-Project/blob/main/Large%20Language%20Models/README.md)
-- **`Web_Scraping/scrape_uni/`**: Web scraping scripts for extracting university course data.
-- **`prototype_website_chatbot/`**: The prototype implementation of the chatbot.
-- **`app.py`**: The main Streamlit script for running the chatbot prototype.
+- **`Data_Cleaning_and_Data_Analysis`**: This folder contains the notebook used for cleaning the data and Exploratory Data Analysis is also included here.
+- **`Google-Collab`**: This folder contains all the notebooks used for finetuning and testing large language model on Google Colab with GPU.
+- ** `Large Language Models`**:  Finetuned Large Languge Models are very big in size. All the LLM's made in this project is hosted on Huggingface. These LLM's are: [Gemma-2-9b](https://huggingface.co/roger33303/gemma-2-9b-Instruct-Finetune-website-QnA), [Mistral-7b](https://huggingface.co/roger33303/mistral-7b-Instruct-Finetune-website-QnA), [Llama-3.2-3b](https://huggingface.co/roger33303/Best_Model-llama3.2-3b-Instruct-Finetune-website-QnA), [Llama-3.2-3b-GGUF-Model](https://huggingface.co/roger33303/Best_Model-llama3.2-3b-16bit-Instruct-Finetune-website-QnA-gguf), [Phi-3.5-mini-instruct](https://huggingface.co/roger33303/phi3.5-4b-Instruct-Finetune-website-QnA). [More Information](https://github.com/Abhinav330/MSC-Project/blob/main/Large%20Language%20Models/README.md).
+- **`Web_Scraping`**: This folder contains Web scraping scripts for extracting university course data.
+- **`prototype_website_chatbot`**: This folder contains the prototype implementation of the chatbot. **`app.py`**: The main Streamlit script for running the chatbot prototype.
 - **`README.md`**: This documentation file.
 
 ## Project Objectives
